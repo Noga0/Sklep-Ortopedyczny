@@ -38,4 +38,4 @@ break;
 for(wypisz=0; wypisz<(funkcja); wypisz++)
 printf("%3d", wsk[wypisz]);
 putchar('\n');
-}
+} 

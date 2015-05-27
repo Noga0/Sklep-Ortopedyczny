@@ -65,3 +65,4 @@ napis = deleteLastChar(napis);
 puts(napis);
 
 }
+ 
