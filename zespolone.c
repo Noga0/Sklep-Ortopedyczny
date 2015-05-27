@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include<math.h>
 
+
 struct zesp
 {
   float re;
@@ -34,6 +35,7 @@ printf("%f\n", modul(a));
 printf("sprzezenie liczby a to:\n");
 wypisz_zesp(sprzezenie(a));
 
+printf("IEAIAIO\n");
 return 0;
 }
 
