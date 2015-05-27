@@ -134,7 +134,7 @@ return i;
 int main()
 
 {
-
+printf("Bawimy sie niegrzecznie\n");
 int dlugosc=0;
 
 int wybor;
